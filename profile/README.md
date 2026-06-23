@@ -8,12 +8,12 @@ Repositórios internos de desenvolvimento — ferramentas, processos e automaç�
 
 | Repositório | Descrição |
 |---|---|
-| [hub-paginas](../../hub-paginas) | Hub central de navegação entre páginas |
-| [controle-paginas](../../controle-paginas) | Controle e gerenciamento de páginas |
-| [hierarquia-horas-extras](../../hierarquia-horas-extras) | Gestão da hierarquia no fluxo de horas extras |
-| [mapeamento-fluig-DB](../../mapeamento-fluig-DB) | Mapeamento do banco de dados do Fluig |
-| [apuracao-horas](../../apuracao-horas) | Apuração de horas extras |
-| [Fluig-Crud-lib](../../Fluig-Crud-lib) | Biblioteca de operações CRUD no Fluig |
+| [hub-paginas](https://github.com/Porto-Seco-SDM/hub-paginas) | Hub central de navegação entre páginas |
+| [controle-paginas](https://github.com/Porto-Seco-SDM/controle-paginas) | Controle e gerenciamento de páginas |
+| [hierarquia-horas-extras](https://github.com/Porto-Seco-SDM/hierarquia-horas-extras) | Gestão da hierarquia no fluxo de horas extras |
+| [mapeamento-fluig-DB](https://github.com/Porto-Seco-SDM/mapeamento-fluig-DB) | Mapeamento do banco de dados do Fluig |
+| [apuracao-horas](https://github.com/Porto-Seco-SDM/apuracao-horas) | Apuração de horas extras |
+| [Fluig-Crud-lib](https://github.com/Porto-Seco-SDM/Fluig-Crud-lib) | Biblioteca de operações CRUD no Fluig |
 
 ---
 
@@ -21,8 +21,8 @@ Repositórios internos de desenvolvimento — ferramentas, processos e automaç�
 
 | Repositório | Descrição |
 |---|---|
-| [cadastro-adm](../../cadastro-adm) | Cadastro administrativo |
-| [cadastro-pj](../../cadastro-pj) | Cadastro de pessoa jurídica |
+| [cadastro-adm](https://github.com/Porto-Seco-SDM/cadastro-adm) | Cadastro administrativo |
+| [cadastro-pj](https://github.com/Porto-Seco-SDM/cadastro-pj) | Cadastro de pessoa jurídica |
 
 ---
 
@@ -30,8 +30,8 @@ Repositórios internos de desenvolvimento — ferramentas, processos e automaç�
 
 | Repositório | Descrição |
 |---|---|
-| [horas_extras](../../horas_extras) | Processo principal de horas extras |
-| [relatorios-he](../../relatorios-he) | Relatórios de horas extras |
+| [horas_extras](https://github.com/Porto-Seco-SDM/horas_extras) | Processo principal de horas extras |
+| [relatorios-he](https://github.com/Porto-Seco-SDM/relatorios-he) | Relatórios de horas extras |
 
 ---
 
@@ -39,5 +39,5 @@ Repositórios internos de desenvolvimento — ferramentas, processos e automaç�
 
 | Repositório | Descrição |
 |---|---|
-| [horas_extras_tst](../../horas_extras_tst) | Versão de testes (substituída) |
-| [query-teste](../../query-teste) | Queries de teste (substituída) |
+| [horas_extras_tst](https://github.com/Porto-Seco-SDM/horas_extras_tst) | Versão de testes (substituída) |
+| [query-teste](https://github.com/Porto-Seco-SDM/query-teste) | Queries de teste (substituída) |
