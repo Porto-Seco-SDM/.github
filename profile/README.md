@@ -1,6 +1,6 @@
 # Porto-Seco-SDM
 
-Repositórios internos de desenvolvimento da SDM — ferramentas, processos e automações.
+Repositórios internos de desenvolvimento — ferramentas, processos e automações.
 
 ---
 
