@@ -32,6 +32,7 @@ Repositórios internos de desenvolvimento — ferramentas, processos e automaç�
 |---|---|
 | [horas_extras](https://github.com/Porto-Seco-SDM/horas_extras) | Processo principal de horas extras |
 | [relatorios-he](https://github.com/Porto-Seco-SDM/relatorios-he) | Relatórios de horas extras |
+| [relatorio-solicitante-he](https://github.com/Porto-Seco-SDM/relatorio-solicitante-he) | Relatório de overview para solicitante de horas extras |
 
 ---
 
