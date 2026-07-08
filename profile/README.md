@@ -14,7 +14,7 @@ Repositórios internos de desenvolvimento — ferramentas, processos e automaç�
 | [mapeamento-fluig-DB](https://github.com/Porto-Seco-SDM/mapeamento-fluig-DB) | Mapeamento do banco de dados do Fluig |
 | [apuracao-horas](https://github.com/Porto-Seco-SDM/apuracao-horas) | Apuração de horas extras |
 | [Fluig-Crud-lib](https://github.com/Porto-Seco-SDM/Fluig-Crud-lib) | Biblioteca de operações CRUD no Fluig |
-| [Fluig-motor-hierarquia](https://github.com/Porto-Seco-SDM/motor-hierarquia-fluig) | [API-motor-hierarquia](https://github.com/Porto-Seco-SDM/motor-hierarquia-api)| Biblioteca de operações CRUD no Fluig |
+| [Fluig-motor-hierarquia](https://github.com/Porto-Seco-SDM/motor-hierarquia-fluig) -- [API-motor-hierarquia](https://github.com/Porto-Seco-SDM/motor-hierarquia-api)| Biblioteca de operações CRUD no Fluig |
 
 ---
 
