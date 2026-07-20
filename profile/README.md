@@ -16,6 +16,7 @@ Repositórios internos de desenvolvimento — ferramentas, processos e automaç�
 | [Fluig-Crud-lib](https://github.com/Porto-Seco-SDM/Fluig-Crud-lib) | Biblioteca de operações CRUD no Fluig |
 | [Fluig-motor-hierarquia](https://github.com/Porto-Seco-SDM/motor-hierarquia-fluig) — [API-motor-hierarquia](https://github.com/Porto-Seco-SDM/motor-hierarquia-api)| Motor de hierarquia |
 | [API-prothues](https://github.com/Porto-Seco-SDM/api-protheus) | API para consumo de dados do PROTHEUS |
+| [API-db-controladoria](https://github.com/Porto-Seco-SDM/api-db-controladoria) | API para controle do banco de dados da controladoria|
 
 ---
 
